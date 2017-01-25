@@ -18,6 +18,8 @@ Alt-H1
 Alt-H2
 ------
 
+(More "#" symbols, dimmer and smaller the words are. Less underlines, smaller and dimmer the words are.)
+
 
 Lists:
 
@@ -34,6 +36,7 @@ Lists:
 - Or minuses
 + Or pluses
 
+(Numbers of a list can be autonumbered. )
 
 Links:
 
@@ -55,6 +58,8 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
+("[]", "<>" and links at the beginning of a sentence will be counted as links.)
+
 
 Tables:
 
@@ -72,3 +77,5 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+(Use the "|","-" and ":" symbols to draw the frame of tables.)
